@@ -37,7 +37,7 @@ Before you begin, ensure you have the following prerequisites installed:
 2. Navigate to the project directory:
    
   ```bash
-  cd D:\desktop\Desktop\fs
+  cd fs
    ```
 3. Compile the C++ code:
    ```bash
